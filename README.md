@@ -1,8 +1,8 @@
-# PyTorch Learning Path
+# PyTorch Learning Journey
 
-## Recommended Order
+## Recommended Learning Order
 
-1. [Introduction to PyTorch.ipynb](Introduction_to_PyTorch.ipynb)
+1. [Introduction to PyTorch](Introduction%20to%20PyTorch.ipynb)
 2. [Tensors](Tensors.ipynb)
 3. [Autograd](Autograd.ipynb)
 4. [The NN Module](The_NN_Module.ipynb)
