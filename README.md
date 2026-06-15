@@ -11,3 +11,4 @@
 7. [Building ANN](Building_a_ANN_using_PyTorch.ipynb)
 8. [Hperparameter Tuninig](HyperParameter_Tuning_using_Optuna.ipynb)
 9. [Building_CNN](Building_CNN_.ipynb)
+10. [Transfer Learning](Transfer_Learning.ipynb)
