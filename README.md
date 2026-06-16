@@ -12,3 +12,4 @@
 8. [Hperparameter Tuninig](HyperParameter_Tuning_using_Optuna.ipynb)
 9. [Building_CNN](Building_CNN_.ipynb)
 10. [Transfer Learning](Transfer_Learning.ipynb)
+11. [RNN](RNN.ipynb)
